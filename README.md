@@ -93,7 +93,6 @@ git push -u origin development
 
 **8.** Create a Pull Request!
 
-**Congratulations!**  :boom: Sit and relax, you've made your contribution to [Chatter App]  (https://github.com/ishandeveloper/Chatter-App) project.
 
 
 ## Tasks and Features
@@ -109,7 +108,3 @@ git push -u origin development
 
 For help getting started with Flutter, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
-##### Made with ♥ by <a href="https://github.com/ishandeveloper">ishandeveloper</a>
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ishandeveloper)
